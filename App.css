@@ -1,0 +1,23 @@
+h1 {
+  color: rgb(40, 44, 52);
+  margin-bottom: 0px;
+  margin-top: 40px;
+  font-size: 60px;
+  line-height: 65px;
+  font-weight: 700;
+}
+
+.active {
+  border-bottom: 3px solid #61DAFB;
+  padding: 20px 8px 14px 8px;
+  background: #585056;
+}
+
+li a {
+  margin: 0 8px 8px 8px;
+  color: white;
+}
+
+li a:hover {
+  color: #61DAFB;
+}
